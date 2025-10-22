@@ -1,0 +1,1 @@
+const String MAPTILER_API_KEY = "S2rrq1JuaMC4l9L2wJEl";
